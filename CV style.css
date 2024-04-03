@@ -1,0 +1,29 @@
+.atas{
+    height: 90vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.kiri{
+    height: 90%;
+    width: 30%;
+}
+.pic{
+    border-radius: 5%;
+}
+.kanan{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.ket1{
+    height: 5%;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+}
